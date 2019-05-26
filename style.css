@@ -41,6 +41,11 @@
     margin-left: 40%;
 
 }
+.hi{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 5%;
+}
 .skills{
         list-style-type: none;
         font-size: 25px;
@@ -110,6 +115,20 @@
     float: left;
     margin-top: 500px;
     margin-left: -42%;
+
+}
+.project{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif
+}
+.project-link{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.project-logo{
+    margin-left:37%;
+    height: 400px;
 
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
