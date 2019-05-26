@@ -1,0 +1,78 @@
+.heading{
+    font-family: Slabo , serif;
+    font-size: 25px;
+    text-align:center;
+    margin-bottom: -100px;
+    margin-top: 150px;
+}
+.about-me{
+    border: solid; 
+    background-color:#8A33FF;
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-top: 200px;
+    color: white;
+
+}
+.about{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+        
+
+    
+}
+.sub-heading-1{
+    text-align: center;
+    font-size: 40px; 
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-top: 70px;
+    
+
+}
+
+.avatar{
+    
+    margin-top: 80px;
+    margin-left: 38%;
+    margin-right: 50%;
+    
+}
+.skills{
+        list-style-type: none;
+        font-size: 25px;
+       
+}
+.languages{
+    text-align: center;
+    font-size: 30px;
+}
+.text{
+    font-size: 20px;
+}
+.jstext{
+    width: 30%;
+    float: right;
+    background-color: yellow;
+}
+.speak{
+    border: 1px solid black;
+    margin-left: -50px;
+    margin-right: -50px;
+}
+.html{
+    height: 200px;
+
+    
+}
+.css{
+    height: 200px;
+}
+.js{
+    height: 170px;
+
+}
